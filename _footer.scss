@@ -1,0 +1,17 @@
+@use '../abstracts/' as *;
+footer{
+    display:flex;
+    background:#353535;
+    font-size: 10px;
+    font-family: "Shrikhand", serif;
+    
+}
+a{
+    color:white;
+}
+i fa-solid, fa-ustensils{
+    color: white;
+}
+i fa-sharp fa-solid fa-handshake-angle{
+    color:white;
+}

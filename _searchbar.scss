@@ -1,0 +1,11 @@
+@use '../abstracts/' as *;
+#searchbar{
+    background-color: $fourth;
+    display: flex;
+    justify-content: center;
+    padding:25px;
+    width:100%;
+    i{
+        padding-right: 15px;
+    }
+}

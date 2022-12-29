@@ -1,0 +1,41 @@
+@use "bases";
+@use "layouts";
+@use "components";
+
+
+.fa-heart{
+    margin-left:40px;
+}
+.fa-solid{
+    display: flex;
+    flex-direction: column;
+    border:50px;
+    border-radius:20px;
+    color:lightgray;
+}
+.fa-solid, fa-list{
+    border:50px;
+    border-radius:20px;
+    color:lightgray;
+}
+.fa-solid{
+    border:50px;
+    border-radius:20px;
+    color:#444;
+}
+#fonctionnement{
+
+}
+span{
+    display: flex;
+    flex-direction: column;
+}
+.fa-solid ,.fa-utensils{    /*couleur blanche iclass footer main serre et couvert*/
+    color:white;
+}
+.fa-handshake-angle{
+    color:white;
+}
+.fa-solid ,.fa-location-dot{   /*logo maps  et ceux de la partie fonctionnement*/ 
+    color:gray;
+}

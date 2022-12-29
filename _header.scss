@@ -1,0 +1,14 @@
+@use '../abstracts/' as *;
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    h1{
+        font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+}
+
